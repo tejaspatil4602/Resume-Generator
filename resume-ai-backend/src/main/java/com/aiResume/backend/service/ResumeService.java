@@ -3,8 +3,12 @@ package com.aiResume.backend.service;
 
 
 
+import org.json.JSONObject;
+
+import java.io.IOException;
+import java.util.Map;
 
 public interface ResumeService {
 
-    String  generateResumeResponse(String userResumeDescription);
+    Map<String, Object> generateResumeResponse(String userResumeDescription) throws IOException;
 }

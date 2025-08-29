@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef85de61-79a0-45c0-abf4-3529ed7445be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/resume-ai-backend/src/main/java/com/aiResume/backend/service/ResumeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/resume-ai-backend/src/main/java/com/aiResume/backend/service/ResumeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-ai-backend/src/main/java/com/aiResume/backend/service/ResumeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/resume-ai-backend/src/main/java/com/aiResume/backend/service/ResumeService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +51,6 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="QodanaReportsService">
-    <option name="descriptions">
-      <ReportDescription localRun="true" path="/private/var/folders/1y/9tnczq9d3gn5pr09bq1ydw300000gn/T/qodana_output/qodana.sarif.json" reportGuid="b3a4caea-e6dd-458e-ae58-8ec71dae3ad4" reportId="Resume-Generator/qodana/2025-08-29" />
-    </option>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
