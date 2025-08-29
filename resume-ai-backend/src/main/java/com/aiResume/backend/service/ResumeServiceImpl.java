@@ -1,0 +1,18 @@
+package com.aiResume.backend.service;
+
+import org.springframework.ai.chat.client.ChatClient;
+import org.springframework.stereotype.Service;
+
+@Service
+public class ResumeServiceImpl implements ResumeService{
+
+    private ChatClient chatClient;
+
+    public ResumeServiceImpl(ChatClient.Builder builder){
+        this.chatClient=builder.build();
+    }
+    @Override
+    public String generateResumeResponse(String userResumeDescription) {
+        return "";
+    }
+}
